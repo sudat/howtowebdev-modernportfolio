@@ -85,8 +85,8 @@ export default function Home() {
                 </span>
               </p>
               <p className="text-gray-600 text-sm dark:text-gray-400 max-w-2xl">
-                Beyond tech, I'm a passionate traveler and
-                foodie.
+                Beyond tech, I&apos;m a passionate traveler
+                and foodie.
               </p>
             </motion.div>
 
@@ -245,7 +245,7 @@ export default function Home() {
                 increasing productivity across teams by 30%.
                 Worked closely with the development team to
                 implement new features and improve the
-                system's efficiency.
+                system&apos;s efficiency.
               </p>
             </div>
 
@@ -269,7 +269,7 @@ export default function Home() {
                 increasing productivity across teams by 30%.
                 Worked closely with the development team to
                 implement new features and improve the
-                system's efficiency.
+                system&apos;s efficiency.
               </p>
             </div>
 
@@ -293,7 +293,7 @@ export default function Home() {
                 increasing productivity across teams by 30%.
                 Worked closely with the development team to
                 implement new features and improve the
-                system's efficiency.
+                system&apos;s efficiency.
               </p>
             </div>
           </motion.section>
