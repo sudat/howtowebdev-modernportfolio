@@ -155,11 +155,11 @@ export default function Home() {
               </div>
               <p className="text-gray-600 dark:text-gray-400 text-sm">
                 Led the development of cloud-native
-                applications using AWS services ,
+                applications using AWS services,
                 implementing serverless architectures that
                 reduced operational costs by 40%.
                 Established CI/CD pipelines and automated
-                deployment processes , resulting in 60%
+                deployment processes, resulting in 60%
                 faster release cycles.
               </p>
             </div>
@@ -180,11 +180,11 @@ export default function Home() {
               </div>
               <p className="text-gray-600 dark:text-gray-400 text-sm">
                 Led the development of cloud-native
-                applications using AWS services ,
+                applications using AWS services,
                 implementing serverless architectures that
                 reduced operational costs by 40%.
                 Established CI/CD pipelines and automated
-                deployment processes , resulting in 60%
+                deployment processes, resulting in 60%
                 faster release cycles.
               </p>
             </div>
@@ -205,11 +205,11 @@ export default function Home() {
               </div>
               <p className="text-gray-600 dark:text-gray-400 text-sm">
                 Led the development of cloud-native
-                applications using AWS services ,
+                applications using AWS services,
                 implementing serverless architectures that
                 reduced operational costs by 40%.
                 Established CI/CD pipelines and automated
-                deployment processes , resulting in 60%
+                deployment processes, resulting in 60%
                 faster release cycles.
               </p>
             </div>
